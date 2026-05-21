@@ -1,0 +1,36 @@
+test/mode-change-policy.test.ts
+  s_7da7b36ce2527a::t_5f5de17add2107 1-95,97-98,110-112
+  s_7da7b36ce2527a::t_fcfc9fbb7febd3 96,99-109
+README.md
+  s_7da7b36ce2527a::t_b278551caf501f 17-18
+  s_7da7b36ce2527a::t_c9bc81ea4d0d5f 37-63
+script/pack-check.ts
+  s_7da7b36ce2527a::t_8f3ba1e683d661 66-67
+test/mode-change-editor.test.ts
+  s_7da7b36ce2527a::t_0535dbe4b387f8 1-88
+mode-change-policy.ts
+  s_7da7b36ce2527a::t_d1925f5a7399ce 1-27,29-117
+  s_7da7b36ce2527a::t_d8942fe3650c48 28
+clipboard-policy.ts
+  s_7da7b36ce2527a::t_5a2ab9f6b3e538 3-4,10,57-58,60-61
+package.json
+  s_7da7b36ce2527a::t_c8f761de02cbc6 28
+index.ts
+  s_7da7b36ce2527a::t_0ec92f5143ec61 57-59,567,600-611,1102,1310,1377,1389,1504,1525,1561,1854,1857,1863,1867,1872,1876,1885,1890,1894,3097-3106,3121-3124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "ab77760907bf2d95f7ce2a0e461ed9c80f52b58d",
+  "prompts": {},
+  "sessions": {
+    "s_7da7b36ce2527a": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e49b1-741a-740e-8156-4a3556582eb6",
+        "model": "kimi-k2.6"
+      },
+      "human_author": null
+    }
+  }
+}
