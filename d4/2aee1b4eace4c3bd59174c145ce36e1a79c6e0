@@ -1,0 +1,19 @@
+index.ts
+  s_7da7b36ce2527a::t_0ec92f5143ec61 565
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "d42aee1b4eace4c3bd59174c145ce36e1a79c6e0",
+  "prompts": {},
+  "sessions": {
+    "s_7da7b36ce2527a": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e49b1-741a-740e-8156-4a3556582eb6",
+        "model": "kimi-k2.6"
+      },
+      "human_author": null
+    }
+  }
+}
