@@ -1,0 +1,22 @@
+mode-change-policy.ts
+  s_7da7b36ce2527a::t_d8942fe3650c48 34-35
+  s_7da7b36ce2527a::t_d1925f5a7399ce 17-18,27-32,36-38,41-44,56-58,103-105
+index.ts
+  s_7da7b36ce2527a::t_0ec92f5143ec61 688-690,702-704
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "9a6ba097f9564387ac33f80d7c1a40c986c3fee9",
+  "prompts": {},
+  "sessions": {
+    "s_7da7b36ce2527a": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e49b1-741a-740e-8156-4a3556582eb6",
+        "model": "kimi-k2.6"
+      },
+      "human_author": null
+    }
+  }
+}
