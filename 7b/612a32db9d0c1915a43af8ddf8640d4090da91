@@ -1,0 +1,19 @@
+script/pack-check.ts
+  s_7da7b36ce2527a::t_8f3ba1e683d661 70-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "7b612a32db9d0c1915a43af8ddf8640d4090da91",
+  "prompts": {},
+  "sessions": {
+    "s_7da7b36ce2527a": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e49b1-741a-740e-8156-4a3556582eb6",
+        "model": "kimi-k2.6"
+      },
+      "human_author": null
+    }
+  }
+}
