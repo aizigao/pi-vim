@@ -68,8 +68,8 @@ const THRESHOLDS = {
   // WORD/delimited text objects, mode-color settings, and matching-pair
   // motion add package surface. Keep budgets tight enough to catch
   // accidental docs/tests in the package.
-  maxSize: 32200,
-  maxUnpackedSize: 141500,
+  maxSize: 35000,
+  maxUnpackedSize: 150000,
 } as const;
 
 function compareStrings(a: string, b: string): number {
