@@ -1,0 +1,31 @@
+test/modal-editor.test.ts
+  s_524ebf8d71fbda::t_c7424d618b014e 922-979
+settings.ts
+  s_524ebf8d71fbda::t_1cebce98c8c6c2 9-13,17,23,46-57,75-84,103
+index.ts
+  s_524ebf8d71fbda::t_43e2170f4260a8 26-29,649,689-691,729,731-737,2359
+  s_524ebf8d71fbda::t_e7d9d40aee042f 3374-3404,3427,3437
+README.md
+  s_524ebf8d71fbda::t_450c3b363fed15 42-52
+  s_524ebf8d71fbda::t_53ed938237e616 33
+  s_524ebf8d71fbda::t_8e5fea2db312ce 40
+  s_524ebf8d71fbda::t_3eaebd921a1ed4 39,53
+test/settings.test.ts
+  s_524ebf8d71fbda::t_c10b455fead7be 7,215-295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "e4eb3631d29ac9c4dd8862211b5997c02888bce8",
+  "prompts": {},
+  "sessions": {
+    "s_524ebf8d71fbda": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e5614-7c5a-7504-9eff-0bb22e166cab",
+        "model": "zyb-claude"
+      },
+      "human_author": "aizigao <weixiangzhe@live.com>"
+    }
+  }
+}
